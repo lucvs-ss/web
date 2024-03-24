@@ -16,7 +16,7 @@ a {
   }
 
     a:hover{
-        color: #333;
+        color: #5e5e5e;
     }
   
 body{
@@ -42,6 +42,16 @@ body{
   }
 .contenido2 {
     background-color: orange;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+    padding-left: 42%;
+    width: 50%;
+    font-family: sans-serif;
+  }
+  
+.contenido3 {
+    background-color: rgb(209, 0, 0);
     color: #fff;
     padding: 10px;
     text-align: left;
